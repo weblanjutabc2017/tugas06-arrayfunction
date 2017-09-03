@@ -1,4 +1,4 @@
-# Tugas 06 Array dan Function#
+# Tugas 06 Array dan Function #
 
 * Kerjakan tugas sesuai perintah yang ada pada file tugas06.pdf
 
