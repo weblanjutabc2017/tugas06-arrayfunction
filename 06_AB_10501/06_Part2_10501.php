@@ -1,10 +1,10 @@
 <?php
-function name($fname = "Ahmad", $lname)
+function name($lname, $fname = "Ahmad")
 {
- return $fname;
+ return "$fname $lname";
 }
 echo "Berikut ini nama mahasiswa yang mempunyai nama depan Ahmad: <br/>";
-echo name(null, "Zakaria");
-echo name(null, "Latif");
-echo name(null, "Fadillah");
+echo name("Zakaria"); echo "<br/>";
+echo name("Latif"); echo "<br/>";
+echo name("Fadillah");  echo "<br/>";
 ?>
