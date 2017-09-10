@@ -1,4 +1,5 @@
 <?php
+// Naqiya Zh-09459
 $bil1= 400;
 $bil2 = 200;
 
