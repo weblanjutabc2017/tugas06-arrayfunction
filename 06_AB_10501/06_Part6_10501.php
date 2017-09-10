@@ -1,6 +1,6 @@
 <?php
 	$a = 10;
-	$fibo = array(1,1);
+	$fibo = array(0,1);
 	
 	for($i = 2;$i < $a;$i++){
 		$fibo[$i] = $fibo[$i-1] + $fibo[$i-2];
