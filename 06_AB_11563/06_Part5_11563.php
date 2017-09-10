@@ -28,8 +28,8 @@ function deretGenap($limit) {
 	return $output;
 }
 
-echo deretGanjil(10);
+echo deretGanjil(100);
 echo "<br>";
-echo deretGenap(10);
+echo deretGenap(100);
 
 ?>
